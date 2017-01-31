@@ -5,11 +5,11 @@ Radar using Arduino, Ping and Servo.
 
 The original code belongs to Dejan Nedelkovski, this is an adaptation for Mac users.
 
-This is the wiring:
+THE WIRING:
 
 <img width="989" alt="screenshot 2017-01-31 15 36 43" src="https://cloud.githubusercontent.com/assets/22894897/22487594/3a54d2f8-e7cb-11e6-8dbd-ad94e7cb77a8.png">
 
-This is the Code for Arduino (fixed):
+CODE for Arduino (fixed):
 
 <pre>
 <font color="#434f54">//Original code by Dejan Nedelkovski</font>
@@ -73,7 +73,7 @@ This is the Code for Arduino (fixed):
 
 </pre>
 
-This is the Code for Processing:
+CODE for Processing:
 
 <html><body><pre>
 <span style="color: #666666;">//For&nbsp;Processing&nbsp;3.2.3-&nbsp;MacOS&nbsp;Sierra</span>
