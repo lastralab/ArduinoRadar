@@ -1,7 +1,5 @@
 # ArduinoRadar
-Radar using Arduino, Ping and Servo.
-
-![rad](https://cloud.githubusercontent.com/assets/22894897/22486700/ceb447e8-e7c7-11e6-9cb0-9159f0d54feb.gif)
+Radar using Arduino, Ping, Servo and Processing.
 
 The original code belongs to Dejan Nedelkovski, this is an adaptation for Mac users and for my own needs.
 
