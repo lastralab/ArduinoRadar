@@ -226,4 +226,4 @@ This is how it looks finished (sorry for bad quality of gif):
 ![rad](https://cloud.githubusercontent.com/assets/22894897/22487906/8b255f26-e7cc-11e6-82bf-299cf0ff6229.gif)
 <br>
 <br>
-<p align="center"><a href="https://taniamol.github.io/website/" target="_blank"><br><button><img src="http://i.imgur.com/ERyS5Xn.png" alt="l'astra lab icon" width="50px" background="transparent" opacity="0.5" padding="0;"/></button></a></p><br><br>
+<p align="center"><a href="https://lastralab.github.io/website/" target="_blank"><br><button><img src="http://i.imgur.com/ERyS5Xn.png" alt="l'astra lab icon" width="50px" background="transparent" opacity="0.5" padding="0;"/></button></a></p><br><br>
