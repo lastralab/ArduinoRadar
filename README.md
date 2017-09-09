@@ -11,7 +11,7 @@ CODE for Arduino (fixed):
 
 <pre>
 <font color="#434f54">//Original code by Dejan Nedelkovski</font>
-<font color="#434f54">//Mac version by Tania Molina</font>
+<font color="#434f54">//Author: Niam Moltta</font>
 <font color="#434f54">//RADAR</font>
 
 <font color="#5e6d03">#include</font> <font color="#434f54">&lt;</font><b><font color="#d35400">Servo</font></b><font color="#434f54">.</font><font color="#000000">h</font><font color="#434f54">&gt;</font><font color="#434f54">.</font> 
@@ -75,7 +75,7 @@ CODE for Processing:
 
 <html><body><pre>
 <span style="color: #666666;">//For&nbsp;Processing&nbsp;3.2.3-&nbsp;MacOS&nbsp;Sierra</span>
-<span style="color: #666666;">//by&nbsp;Tania&nbsp;Molina</span>
+<span style="color: #666666;">//Author:&nbsp;Niam&nbsp;Moltta</span>
 <span style="color: #666666;">//Jan-2017</span>
 
 <span style="color: #33997E;">import</span> processing.serial.*; <span style="color: #666666;">// imports library for serial communication</span>
