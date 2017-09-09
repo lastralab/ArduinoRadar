@@ -1,5 +1,5 @@
 //For Processing 3.2.3- MacOS Sierra
-//by Tania Molina
+//Author: Niam Moltta
 //Jan-2017
 
 import processing.serial.*; // imports library for serial communication
