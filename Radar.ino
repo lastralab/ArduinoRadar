@@ -1,5 +1,5 @@
 //Original code by Dejan Nedelkovski
-//Mac version by Tania Molina
+//Mac version by Niam Moltta
 //RADAR
 
 #include <Servo.h>. 
