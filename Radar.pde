@@ -13,10 +13,13 @@ String angle="";
 String distance="";
 String data="";
 String noObject;
+
 float pixsDistance;
+
 int iAngle, iDistance;
 int index1=0;
 int index2=0;
+
 PFont orcFont;
 
 void setup() {
@@ -27,6 +30,7 @@ void setup() {
  myPort.bufferUntil('.'); 
  orcFont = loadFont("OCRAExtended-30.vlw");
 }
+
 void draw() {
   
   fill(98,245,31);
@@ -55,6 +59,7 @@ void serialEvent (Serial myPort) {
   iAngle = int(angle);
   iDistance = int(distance);
 }
+
 void drawRadar() {
   
   pushMatrix();
@@ -92,6 +97,7 @@ void drawObject() {
   }
   popMatrix();
 }
+
 void drawLine() {
   pushMatrix();
   strokeWeight(9);
