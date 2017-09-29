@@ -1,6 +1,4 @@
 //For Processing 3.2.3- MacOS Sierra
-//Author: Niam Moltta
-//Jan-2017
 
 import processing.serial.*; // imports library for serial communication
 import java.awt.event.KeyEvent; // imports library for reading the data from the serial port
